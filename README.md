@@ -1,4 +1,4 @@
-```markdown
+
 # 🎓 Rumeysa's 42 Projects
 
 Bu repo, **42 Türkiye** eğitim sürecimde tamamladığım tüm projelerin merkezi hub'ıdır.  
@@ -37,4 +37,3 @@ Aşağıda projelerim Circle bazında listelenmiştir. Proje isimlerine tıklaya
 
 ## 🤝 Katkı & İletişim
 Projeler hakkında soru sormak veya katkıda bulunmak isterseniz, ilgili repo sayfasında **issue** açabilirsiniz.  
-```
