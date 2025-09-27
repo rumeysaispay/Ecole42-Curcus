@@ -1,102 +1,40 @@
-# Ecole42-Curcus
 ```markdown
-#🏫 42 Türkiye Ana Eğitim Projeleri 
+# 🎓 Rumeysa's 42 Projects
 
-Bu repo, **42 Türkiye eğitim sürecim boyunca tamamladığım ana projelerin merkezi hub'ıdır.**  
-Her proje, algoritmalar, sistem programlama, oyun geliştirme ve yapay zekâ konularında farklı beceriler kazandırmayı hedefler.  
-Aşağıdaki listeden projelere tıklayarak ilgili repolara ulaşabilirsiniz. 🚀
-
----
-
-##📂 Proje Listesi 
-
-###📌 Libft
-- [Libft](https://github.com/rumeysaispay/libft)  
-  C dilinde temel standart kütüphane fonksiyonlarının yeniden yazımı.  
-  String, bellek ve liste işlemleri içerir.  
+Bu repo, **42 Türkiye** eğitim sürecimde tamamladığım tüm projelerin merkezi hub'ıdır.  
+Aşağıda projelerim Circle bazında listelenmiştir. Proje isimlerine tıklayarak ilgili repolara ulaşabilirsiniz. 🚀  
 
 ---
 
-###📌 Printf
-- [ft_printf](https://github.com/rumeysaispay/ft_printf)  
-  `printf` fonksiyonunun yeniden implementasyonu.  
-  **Variadic functions** kullanılarak formatlama yapılır.  
+## 🏆 42 SCHOOL CURSUS
+
+| Circle 0 & 1 | Durum | Circle 4 | Durum |
+|--------------|-------|-----------|-------|
+| [Libft](https://github.com/username/libft) | ✅ 125 / 100 | [NetPractice](https://github.com/username/netpractice) | ✅ 100 / 100 |
+| [get_next_line](https://github.com/username/get_next_line) | ✅ 112 / 100 | [cub3D](https://github.com/username/cub3d) | ✅ 105 / 100 |
+| [ft_printf](https://github.com/username/ft_printf) | ✅ 100 / 100 | [CPP (00 to 04)](https://github.com/username/cpp-modules) | 🟣 CPP (Part 1) |
+| [Born2beroot](https://github.com/username/born2beroot) | ✅ 80 / 100 | Exam Rank 04 | ✅ 100 / 100 |
+
+| Circle 2 | Durum | Circle 5 | Durum |
+|----------|-------|-----------|-------|
+| [fract'ol](https://github.com/username/fractol) | ✅ 125 / 100 | [Inception](https://github.com/username/inception) | ✅ 100 / 100 |
+| [minitalk](https://github.com/username/minitalk) | ✅ 100 / 100 | [ft_irc](https://github.com/username/ft_irc) | ✅ 125 / 100 |
+| [push_swap](https://github.com/username/push_swap) | ✅ 125 / 100 | [CPP (05 to 09)](https://github.com/username/cpp-modules) | 🟣 CPP (Part 2) |
+| Exam Rank 02 | ✅ 100 / 100 | Exam Rank 05 | ✅ 100 / 100 |
+
+| Circle 3 | Durum | Circle 6 | Durum |
+|----------|-------|-----------|-------|
+| [Philosophers](https://github.com/username/philosophers) | ✅ 100 / 100 | [ft_transcendence](https://github.com/username/ft_transcendence) | 🚧 In Progress |
 
 ---
 
-###📌 Get Next Line
-- [get_next_line](https://github.com/rumeysaispay/get_next_line)  
-  Dosya veya standart input’tan satır satır okuma fonksiyonu.  
-  **Buffer yönetimi** ve **dinamik bellek** kullanımı üzerine yoğunlaşır.  
+## 📊 Açıklama
+- ✅ : Tamamlanan projeler  
+- 🟣 : Devam eden modüller  
+- 🚧 : Henüz geliştirme aşamasında  
 
 ---
 
-###📌 Born2beroot
-- [born2beroot](https://github.com/rumeysaispay/born2beroot)  
-  Linux tabanlı bir sanal makine kurulumu ve sistem güvenliği projesi.  
-  SSH, firewall, kullanıcı yönetimi ve servislerin yapılandırılması öğrenilir.  
-
----
-
-###📌 Minitalk
-- [minitalk](https://github.com/rumeysaispay/minitalk)  
-  **Signal** mekanizması kullanarak prosesler arası iletişim.  
-  `SIGUSR1` ve `SIGUSR2` ile bit-bit mesaj gönderimi.  
-
----
-
-###📌 Push Swap
-- [push_swap](https://github.com/rumeysaispay/push_swap)  
-  Belirli kurallarla en az adımda sayı sıralama algoritması.  
-  Stack ve algoritma optimizasyonu odaklıdır.  
-
----
-
-###📌 So Long
-- [so_long](https://github.com/rumeysaispay/so_long)  
-  2D harita tabanlı küçük bir oyun.  
-  **MiniLibX** kullanılarak grafik programlama öğrenilir.  
-
----
-
-###📌 Pipex
-- [pipex](https://github.com/rumeysaispay/pipex)  
-  Unix `pipe` mekanizmasının implementasyonu.  
-  Çoklu komutların birbirine bağlanması ve **file descriptor** yönetimi üzerine çalışılır.  
-
----
-
-###📌 Philosophers
-- [philosophers](https://github.com/rumeysaispay/philosophers)  
-  Ünlü **Dining Philosophers Problem**’inin çözümü.  
-  Çoklu thread, mutex ve senkronizasyon tekniklerini içerir.  
-
----
-
-##🚀 İleri Aşama Projeleri
-
-###📌 Minishell
-- [minishell](https://github.com/rumeysaispay/minishell)  
-  Bash benzeri bir shell implementasyonu.  
-  Komut parsing, environment değişkenleri ve **execve** sistem çağrısı kullanılır.  
-
-###📌 NetPractice
-- [netpractice](https://github.com/rumeysaispay/netpractice)  
-  Ağ yapılandırması üzerine interaktif bir proje.  
-  IP, subnetting ve routing üzerine pratik kazandırır.  
-
----
-
-## 📊 Durum Takibi
-✅ Tamamlanan projeler  
-🛠 Devam eden projeler  
-📅 Planlanan projeler  
-
----
-
-## 🤝 Katkıda Bulunma
-Bu repo, eğitim sürecimde ilerlememi göstermek için kişisel bir hub’dır.  
-Projeler hakkında soru sormak veya katkı yapmak isteyenler, ilgili proje repolarında **issue açabilir**.  
-
----
+## 🤝 Katkı & İletişim
+Projeler hakkında soru sormak veya katkıda bulunmak isterseniz, ilgili repo sayfasında **issue** açabilirsiniz.  
 ```
