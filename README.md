@@ -1,6 +1,6 @@
 # Ecole42-Curcus
 ```markdown
-# 42 Türkiye Ana Eğitim Projeleri 🏫
+#🏫 42 Türkiye Ana Eğitim Projeleri 
 
 Bu repo, **42 Türkiye eğitim sürecim boyunca tamamladığım ana projelerin merkezi hub'ıdır.**  
 Her proje, algoritmalar, sistem programlama, oyun geliştirme ve yapay zekâ konularında farklı beceriler kazandırmayı hedefler.  
@@ -8,79 +8,79 @@ Aşağıdaki listeden projelere tıklayarak ilgili repolara ulaşabilirsiniz. �
 
 ---
 
-## Proje Listesi 📂
+##📂 Proje Listesi 
 
-### 📌 Libft
+###📌 Libft
 - [Libft](https://github.com/rumeysaispay/libft)  
   C dilinde temel standart kütüphane fonksiyonlarının yeniden yazımı.  
   String, bellek ve liste işlemleri içerir.  
 
 ---
 
-### 📌 Printf
+###📌 Printf
 - [ft_printf](https://github.com/rumeysaispay/ft_printf)  
   `printf` fonksiyonunun yeniden implementasyonu.  
   **Variadic functions** kullanılarak formatlama yapılır.  
 
 ---
 
-### 📌 Get Next Line
+###📌 Get Next Line
 - [get_next_line](https://github.com/rumeysaispay/get_next_line)  
   Dosya veya standart input’tan satır satır okuma fonksiyonu.  
   **Buffer yönetimi** ve **dinamik bellek** kullanımı üzerine yoğunlaşır.  
 
 ---
 
-### 📌 Born2beroot
+###📌 Born2beroot
 - [born2beroot](https://github.com/rumeysaispay/born2beroot)  
   Linux tabanlı bir sanal makine kurulumu ve sistem güvenliği projesi.  
   SSH, firewall, kullanıcı yönetimi ve servislerin yapılandırılması öğrenilir.  
 
 ---
 
-### 📌 Minitalk
+###📌 Minitalk
 - [minitalk](https://github.com/rumeysaispay/minitalk)  
   **Signal** mekanizması kullanarak prosesler arası iletişim.  
   `SIGUSR1` ve `SIGUSR2` ile bit-bit mesaj gönderimi.  
 
 ---
 
-### 📌 Push Swap
+###📌 Push Swap
 - [push_swap](https://github.com/rumeysaispay/push_swap)  
   Belirli kurallarla en az adımda sayı sıralama algoritması.  
   Stack ve algoritma optimizasyonu odaklıdır.  
 
 ---
 
-### 📌 So Long
+###📌 So Long
 - [so_long](https://github.com/rumeysaispay/so_long)  
   2D harita tabanlı küçük bir oyun.  
   **MiniLibX** kullanılarak grafik programlama öğrenilir.  
 
 ---
 
-### 📌 Pipex
+###📌 Pipex
 - [pipex](https://github.com/rumeysaispay/pipex)  
   Unix `pipe` mekanizmasının implementasyonu.  
   Çoklu komutların birbirine bağlanması ve **file descriptor** yönetimi üzerine çalışılır.  
 
 ---
 
-### 📌 Philosophers
+###📌 Philosophers
 - [philosophers](https://github.com/rumeysaispay/philosophers)  
   Ünlü **Dining Philosophers Problem**’inin çözümü.  
   Çoklu thread, mutex ve senkronizasyon tekniklerini içerir.  
 
 ---
 
-## 🚀 İleri Aşama Projeleri
+##🚀 İleri Aşama Projeleri
 
-### 📌 Minishell
+###📌 Minishell
 - [minishell](https://github.com/rumeysaispay/minishell)  
   Bash benzeri bir shell implementasyonu.  
   Komut parsing, environment değişkenleri ve **execve** sistem çağrısı kullanılır.  
 
-### 📌 NetPractice
+###📌 NetPractice
 - [netpractice](https://github.com/rumeysaispay/netpractice)  
   Ağ yapılandırması üzerine interaktif bir proje.  
   IP, subnetting ve routing üzerine pratik kazandırır.  
