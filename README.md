@@ -1,6 +1,6 @@
 # Ecole42-Curcus
 ```markdown
-# 🏫 42 Türkiye Ana Eğitim Projeleri
+# 42 Türkiye Ana Eğitim Projeleri 🏫
 
 Bu repo, **42 Türkiye eğitim sürecim boyunca tamamladığım ana projelerin merkezi hub'ıdır.**  
 Her proje, algoritmalar, sistem programlama, oyun geliştirme ve yapay zekâ konularında farklı beceriler kazandırmayı hedefler.  
@@ -8,7 +8,7 @@ Aşağıdaki listeden projelere tıklayarak ilgili repolara ulaşabilirsiniz. �
 
 ---
 
-## 📂 Proje Listesi
+## Proje Listesi 📂
 
 ### 📌 Libft
 - [Libft](https://github.com/rumeysaispay/libft)  
